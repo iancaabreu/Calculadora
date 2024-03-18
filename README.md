@@ -9,4 +9,10 @@ em cima do valor da anota, com o percentual minimo de 0,5 e máximo de 10%, de a
   ja que estou estudando a linguagem... Quero fazer melhoriasna na calculadora, colocar uma interface e muito mais.... em breve retomo as atualizações por aqui 👋
 
 
+## Estrutura 
 
+- função: calcular_multa_moratoria
+- const valor_parcela
+- const dias_atraso
+- const taxa_multa
+- const multa_moratoria
